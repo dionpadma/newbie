@@ -1,5 +1,5 @@
 <?php
 
-include_once("isi.html");
+include_once("home.html");
 
 ?>
